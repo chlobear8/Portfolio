@@ -20,6 +20,10 @@ img {
 }
 
 .sidebar {
+  display: flex;
+  align-items: center;
+  font-family: cursive;
+  font-size: medium;
   width: 30%;
   float: right;
   background-color: maroon;
