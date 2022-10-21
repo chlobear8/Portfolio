@@ -1,0 +1,26 @@
+img {
+  height: 504px;
+  width: 378px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.welcome {
+  display: flex;
+  align-items: center;
+  background-color: maroon;
+  font-family: cursive;
+  font-size: large;
+  text-align: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: maroon;
+}
