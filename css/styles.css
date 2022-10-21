@@ -1,6 +1,16 @@
+body {
+  background-color: black;
+}
+
 img {
   height: 504px;
   width: 378px;
+  padding: 50 px;
+  border: white;
+  border-width: 30px;
+  background-color: maroon;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 .center {
@@ -11,12 +21,11 @@ img {
 }
 
 .welcome {
-  display: flex;
   align-items: center;
   background-color: maroon;
   font-family: cursive;
   font-size: large;
-  text-align: center;
+  margin: 75px;
 }
 
 .sidebar {
@@ -24,7 +33,12 @@ img {
   align-items: center;
   font-family: cursive;
   font-size: medium;
-  width: 30%;
-  float: right;
+  width: 60%;
+  float: left;
   background-color: maroon;
+  padding: 50px;
+  border: white;
+  border-width: 60 px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
