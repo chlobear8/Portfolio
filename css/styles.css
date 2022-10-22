@@ -1,44 +1,37 @@
 body {
-  background-color: black;
+  background-color: rgb(39, 36, 36);
 }
 
 img {
   height: 504px;
-  width: 378px;
-  padding: 50 px;
+  width: 385px;
   border: white;
+  border-style:outset;
   border-width: 30px;
-  background-color: maroon;
+  background-color: rgb(56, 2, 2);
   margin-bottom: 10px;
   box-sizing: border-box;
-}
-
-.center {
-  margin: auto;
-  width: 50%;
-  height: auto;
-  display: block;
+  float: right;
 }
 
 .welcome {
-  align-items: center;
-  background-color: maroon;
+  text-align: center;
+  width: 500px;
+  margin: 0;
+  color: rgb(56, 2, 2);
   font-family: cursive;
   font-size: large;
   margin: 75px;
 }
 
-.sidebar {
-  display: flex;
-  align-items: center;
-  font-family: cursive;
-  font-size: medium;
-  width: 60%;
-  float: left;
-  background-color: maroon;
-  padding: 50px;
-  border: white;
-  border-width: 60 px;
-  margin-bottom: 10px;
-  box-sizing: border-box;
+.wrapper .sidebar {
+  background-color: rgb(56, 2, 2);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
 }
+
