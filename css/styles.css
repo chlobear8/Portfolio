@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(39, 36, 36);
+  background-color: rgb(134, 126, 126);
 }
 
 img {
@@ -45,3 +45,10 @@ img {
   color:rgb(56, 2, 2);
 }
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
