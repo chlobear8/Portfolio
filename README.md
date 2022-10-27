@@ -11,7 +11,7 @@
 
 ## Description
 
-_Portfolio landing page is designed to highlight my work as I progress as a programmer. Main index page features a photo of myself and a table of contents. Within the contents will be a GitHub page that links to repositories that I wish to display. There is also an About Me section._
+_Portfolio landing page is designed to highlight my work as I progress as a programmer. Main index page features a photo of myself and a table of contents. Within the contents will be a GitHub page that links to repositories that I wish to display. There is also an About Me section. [CLICK HERE TO SEE THE SITE LIVE](https://chlobear8.github.io/Portfolio/)_
 
 ## Setup/Installation Requirements
 
